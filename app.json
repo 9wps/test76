@@ -1,0 +1,33 @@
+{
+    "name": "Test",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://telegra.ph/ppotojpg-02-16",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "ايبي ايدي",
+            "value": "26005152",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ايبي هاش",
+            "value": "afc3ba226cb2e6f01d87d74f81017d8d",
+            "required": true
+        },
+        "OWNER": {
+            "description": "ايـدي الـمـطور",
+            "value": "5175056148",
+            "required": true
+        },
+        "ELHYBA": {
+            "description": "توكن البوت",
+            "value": "6885969257:AAEh4Y6cB6FGpva__en4F8MhBFhTljsXrfI",
+            "required": true
+    }
+  }
+} 
